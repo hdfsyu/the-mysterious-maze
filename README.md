@@ -8,4 +8,5 @@ and go back to your home.
 Download PICO-8 and run the game, or just run it from splore.
 # Other
 [BBS Page](https://www.lexaloffle.com/bbs/?tid=48867)
+
 [Itch.io](https://hdfsyu.itch.io/the-mysterious-maze)
