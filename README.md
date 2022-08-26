@@ -8,7 +8,7 @@ But many other people have left notes in the maze...
 Find your way through the maze, collect all the coins,
 and go back to demoland.
 # Running
-Download PICO-8 and run the game, or just run it from splore.
+Download PICO-8 and run the game, or just run it from SPLORE.
 # Other
 [BBS Page](https://www.lexaloffle.com/bbs/?tid=48867)
 
