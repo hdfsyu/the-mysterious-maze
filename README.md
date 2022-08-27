@@ -1,6 +1,6 @@
 # the-mysterious-maze
 A PICO-8 Game
-
+# Story
 You play as gelpi, the brother of jelpi, he was walking in demoland,
 and he found.. COINS!? HE WAS RICH! But that didn't last long...
 He fell through a big hole, and he went into the maze.
@@ -13,3 +13,5 @@ Download PICO-8 and run the game, or just run it from SPLORE.
 [BBS Page](https://www.lexaloffle.com/bbs/?tid=48867)
 
 [Itch.io](https://hdfsyu.itch.io/the-mysterious-maze)
+# Update
+[Sequel](https://github.com/hdfsyu/The-Mysterious-Prison) is out! 
